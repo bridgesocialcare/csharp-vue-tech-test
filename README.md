@@ -8,7 +8,7 @@ This repository contains a simple patient referral system consisting of a Vue we
 
 The repository includes a GitHub Codespaces configuration to avoid development environment setup. To create a codespace:
 
-1. Ensure you are signed in with a GitHub account (Free GitHub account receive 120 monthly core hours of Codespaces usage)
+1. Ensure you are signed in with a GitHub account (free GitHub accounts receive 120 monthly core hours of Codespaces usage)
 2. Click on the Code dropdown -> Codespaces -> Create codespace on main
 3. Wait whilst the codespace is created and the VS Code extensions are installed. This should only take a minute.
 4. Make sure to delete the codespace once done as closing the tab does not delete it. You may need to refresh [the page](https://github.com/bridgesocialcare/csharp-vue-tech-test) before you can see the codespace to delete it.
