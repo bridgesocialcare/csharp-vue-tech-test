@@ -4,7 +4,7 @@ namespace PatientReferralApi.DataAccess
 {
     public class InMemoryPatientRepository : IPatientRepository
     {
-        private readonly List<Patient> _patients = new List<Patient>
+        private static readonly List<Patient> _patients = new List<Patient>
         {
             new Patient("Boris", "Johnson"),
             new Patient("Liz", "Truss"),

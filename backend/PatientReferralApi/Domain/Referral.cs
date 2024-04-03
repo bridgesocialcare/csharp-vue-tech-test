@@ -11,7 +11,7 @@
 
         public Guid Id { get; }
 
-        public string Title { get; private set; }
+        public string Title { get; set; }
 
         public DateTime CreatedDateTime { get; }
     }
